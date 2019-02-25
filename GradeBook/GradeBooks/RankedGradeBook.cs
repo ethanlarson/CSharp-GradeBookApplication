@@ -38,6 +38,5 @@ namespace GradeBook.GradeBooks
 
             base.CalculateStatistics();
         }
-        public override void
     }
 }
